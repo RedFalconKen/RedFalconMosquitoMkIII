@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
+<spawnabletypes>
+	<type name="RFFSHeli_LittleBird">
+		<attachments chance="1.00">
+			<item name="HeadlightH7" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFMosquito_OilFilter" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFMosquito_DriveBelt" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFMosquito_wiring_harness" chance="0.20" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFMosquito_SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RFMosquito_SparkPlug" chance="0.40" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="CarBattery" chance="0.10" />
+		</attachments>
+	</type>
+</spawnabletypes>

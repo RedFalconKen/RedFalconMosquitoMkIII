@@ -1,0 +1,17 @@
+{
+    "VehiclesParts": [
+       {
+            "VehicleName": "RFMosquito",
+            "Height": 0,
+            "VehicleParts": [
+                "RFMosquito_OilFilter",
+                "RFMosquito_wiring_harness",
+                "RFMosquito_SparkPlug",
+                "RFMosquito_SparkPlug",
+                "RFMosquito_DriveBelt",
+                "CarBattery",
+                "HeadlightH7"
+            ]
+        }
+    ]
+}

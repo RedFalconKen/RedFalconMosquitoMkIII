@@ -1,0 +1,11 @@
+<Trader> RF Mosquito Helicopter                            
+    <Category> Helicopters
+		RFMosquito,					VNK,	0,		-1
+
+    <Category> Helicopter Parts
+		RFMosquito_aviation_toolbox,	*,	0,	-1
+		RFMosquito_wiring_harness,	*,	0,	-1
+		RFMosquito_OilFilter,	*,	0,	-1
+		RFMosquito_DriveBelt,	*,	0,	-1
+		RFMosquito_SparkPlug,	*,	0,	-1
+		EngineOil,	*,	0,	-1

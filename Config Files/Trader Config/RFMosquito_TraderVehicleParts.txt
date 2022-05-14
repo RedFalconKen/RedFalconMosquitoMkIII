@@ -1,0 +1,8 @@
+<VehicleParts>RFMosquito
+		CarBattery
+		RFMosquito_SparkPlug
+		RFMosquito_SparkPlug
+		RFMosquito_DriveBelt
+		RFMosquito_OilFilter
+		RFMosquito_wiring_harness
+		HeadlightH7
