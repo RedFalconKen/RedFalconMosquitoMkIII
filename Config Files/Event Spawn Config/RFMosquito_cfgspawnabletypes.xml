@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
 
 <spawnabletypes>
-	<type name="RFFSHeli_LittleBird">
+	<type name="RFMosquito">
 		<attachments chance="1.00">
 			<item name="HeadlightH7" chance="0.40" />
 		</attachments>
