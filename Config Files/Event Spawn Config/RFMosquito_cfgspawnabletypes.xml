@@ -3,19 +3,19 @@
 <spawnabletypes>
 	<type name="RFMosquito">
 		<attachments chance="1.00">
-			<item name="HeadlightH7" chance="0.40" />
+			<item name="HeadlightH7" chance="0.90" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="RFMosquito_OilFilter" chance="0.20" />
+			<item name="RFMosquito_OilFilter" chance="0.75" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="RFMosquito_DriveBelt" chance="0.50" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="RFMosquito_wiring_harness" chance="0.20" />
+			<item name="RFMosquito_wiring_harness" chance="0.50" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="RFMosquito_SparkPlug" chance="0.40" />
+			<item name="RFMosquito_SparkPlug" chance="0.90" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="RFMosquito_SparkPlug" chance="0.40" />
