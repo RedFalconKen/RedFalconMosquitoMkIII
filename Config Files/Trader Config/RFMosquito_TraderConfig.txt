@@ -9,3 +9,8 @@
 		RFMosquito_DriveBelt,	*,	0,	-1
 		RFMosquito_SparkPlug,	*,	0,	-1
 		EngineOil,	*,	0,	-1
+		RFMosquito_Replacement_Engine,	*,	0,	-1
+		RFMosquito_Replacement_Avionics,	*,	0,	-1
+		RFMosquito_Replacement_Fuel_Tanks,	*,	0,	-1
+		RFMosquito_Replacement_Main_Rotor,	*,	0,	-1
+		RFMosquito_Replacement_Tail_Rotor,	*,	0,	-1

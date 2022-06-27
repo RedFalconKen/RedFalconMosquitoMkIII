@@ -13,6 +13,11 @@
                 "RFMosquito_DriveBelt,1,-1,1,1200,600,0.5",
                 "EngineOil,1,-1,1,1200,600,0.5",
                 "RFMosquito_aviation_toolbox,1,-1,1,3000,1500,0.5"
+				"RFMosquito_Replacement_Engine,1,-1,1,3000,1500,0.5"
+				"RFMosquito_Replacement_Avionics,1,-1,1,3000,1500,0.5"
+				"RFMosquito_Replacement_Fuel_Tanks,1,-1,1,3000,1500,0.5"
+				"RFMosquito_Replacement_Main_Rotor,1,-1,1,3000,1500,0.5"
+				"RFMosquito_Replacement_Tail_Rotor,1,-1,1,3000,1500,0.5"			
             ]
         },
 				
