@@ -6,8 +6,8 @@
             "VehicleParts": [
                 "RFMosquito_OilFilter",
                 "RFMosquito_wiring_harness",
-                "RFMosquito_SparkPlug",
-                "RFMosquito_SparkPlug",
+                "SparkPlug",
+                "SparkPlug",
                 "RFMosquito_DriveBelt",
                 "CarBattery",
                 "HeadlightH7"

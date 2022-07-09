@@ -17,8 +17,8 @@
             "SpawnAttachments": [
 				"RFMosquito_wiring_harness",
                 "RFMosquito_OilFilter",
-                "RFMosquito_SparkPlug",
-                "RFMosquito_SparkPlug",
+                "SparkPlug",
+                "SparkPlug",
                 "RFMosquito_DriveBelt",
                 "CarBattery",
                 "HeadlightH7"

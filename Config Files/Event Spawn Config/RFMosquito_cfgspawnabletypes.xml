@@ -15,10 +15,10 @@
 			<item name="RFMosquito_wiring_harness" chance="0.50" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="RFMosquito_SparkPlug" chance="0.90" />
+			<item name="SparkPlug" chance="0.90" />
 		</attachments>
 		<attachments chance="1.00">
-			<item name="RFMosquito_SparkPlug" chance="0.40" />
+			<item name="parkPlug" chance="0.40" />
 		</attachments>
 		<attachments chance="1.00">
 			<item name="CarBattery" chance="0.10" />

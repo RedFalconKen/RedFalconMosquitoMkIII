@@ -1,7 +1,7 @@
 <VehicleParts>RFMosquito
 		CarBattery
-		RFMosquito_SparkPlug
-		RFMosquito_SparkPlug
+		SparkPlug
+		SparkPlug
 		RFMosquito_DriveBelt
 		RFMosquito_OilFilter
 		RFMosquito_wiring_harness

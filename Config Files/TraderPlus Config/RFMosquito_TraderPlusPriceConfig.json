@@ -9,7 +9,7 @@
             "Products": [
                 "RFMosquito_OilFilter,1,-1,1,1200,600,0.5",
                 "RFMosquito_wiring_harness,1,-1,1,1200,600,0.5",
-                "RFMosquito_SparkPlug,1,-1,1,1200,600,0.5",
+                "SparkPlug,1,-1,1,1200,600,0.5",
                 "RFMosquito_DriveBelt,1,-1,1,1200,600,0.5",
                 "EngineOil,1,-1,1,1200,600,0.5",
                 "RFMosquito_aviation_toolbox,1,-1,1,3000,1500,0.5"

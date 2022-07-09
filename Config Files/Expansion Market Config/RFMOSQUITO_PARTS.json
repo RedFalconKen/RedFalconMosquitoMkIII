@@ -74,7 +74,7 @@
             "Variants": []
         },
 		 {
-            "ClassName": "RFMosquito_SparkPlug",
+            "ClassName": "SparkPlug",
             "MaxPriceThreshold": 120,
             "MinPriceThreshold": 60,
             "SellPricePercent": -1,
