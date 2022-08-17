@@ -32,7 +32,7 @@
         <usage name="Industrial" />
         <tag name="floor" />
     </type>
-    <type name="RFFSHeli_DriveBelt">
+    <type name="RFMosquito_DriveBelt">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
@@ -45,7 +45,7 @@
         <usage name="Industrial" />
         <tag name="floor" />
     </type>
-    <type name="RFFSHeli_OilFilter">
+    <type name="RFMosquito_OilFilter">
         <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
