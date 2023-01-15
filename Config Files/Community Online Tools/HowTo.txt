@@ -1,0 +1,1 @@
+Add the RFMosquito.json file to your "[yourProfileLocation]/CommunityOnlineTools/Vehicles" folder

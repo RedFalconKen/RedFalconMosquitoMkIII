@@ -1,0 +1,12 @@
+{
+    "VehicleName": "RFMosquito",
+    "DisplayName": "",
+    "Parts": [
+        "RFMosquito_wiring_harness",
+        "RFMosquito_DriveBelt",
+        "RFMosquito_OilFilter",
+        "SparkPlug",
+        "CarBattery",
+        "SparkPlug"
+    ]
+}
