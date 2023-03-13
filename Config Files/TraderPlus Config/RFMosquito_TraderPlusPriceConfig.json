@@ -7,7 +7,7 @@
         {
             "CategoryName": "Helicopter Parts",
             "Products": [
-                "RFMosquito_OilFilter,1,-1,1,1200,600,0.5",
+                "RFMosquito_OilFilter,1,-1,1000,1200,600,0.5",
                 "RFMosquito_wiring_harness,1,-1,1,1200,600,0.5",
                 "SparkPlug,1,-1,1,1200,600,0.5",
                 "RFMosquito_DriveBelt,1,-1,1,1200,600,0.5",
